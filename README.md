@@ -7,6 +7,10 @@ Many web, mobile, geospatial, and analytics applications use PostgreSQL as their
 
 This is code I wrote for the [video](https://youtu.be/2g1ZjA6zHRo)
 
+An updated version of this uses the latest version of FastAPI and SQLAlchemy and its source code is [here](https://github.com/jod35/Noted-FastAPI.git)
+
+The video tutorial is [here](https://youtu.be/nC9ob8xM3AM?si=U7dgB52ULCFpEfYY)
+
 ## How to run the REST API
 Get this project from Github
 ``` 
